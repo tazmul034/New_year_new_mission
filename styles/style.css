@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.banner {
+    width: 82.5%;
+    max-width: 1320px;
+    margin-top: 50px;
+    margin-left: 8.75%;
+    margin-right: 8.75%;
+    height: 600px;
+    background-image: url(../resources/Banner\ Image.png);
+    background-size: cover;
+    opacity: 0.8;
+    margin-bottom: 70px;
+
+}
+
+.banner-text {
+    font-family: 'Merriweather', serif;
+
+}
+
+.banner-text h3 {
+    color: #FFF;
+    text-align: center;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    top: 150px;
+ 
+}
+
+.banner-text h2 {
+    color: #FFF;
+    text-align: center;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    position: relative;
+    top: 160px;
+}
+
+ .promotion {
+    width: 50%;
+    max-width: 800px;
+    text-align: center;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-bottom: 70px;
+
+}
+
+.offer {
+    font-family: 'Inter', sans-serif;
+}
+
+.offer h2 {
+    color: #F00;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+.offer h4 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.offer h3 {
+    color: #070211;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new-year img {
+    width:662;
+}
+
+
+.Party {
+    width: 82.5%;
+    max-width: 1320px;
+    margin-left: 8.75%;
+    margin-right: 8.75%;
+    height: 600px;
+    background-image: url(../resources/Vectorrr.png);
+    background-size: cover;    
+    opacity: 0.9;
+    margin-bottom: 70px;
+    margin-top: 125;
+
+}
+
+.midnight {
+    margin-top: 126px;
+    margin-left: 126px;
+    
+}
+
+.midnight h2 {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7.04px;
+    margin-top: 80px;
+    width: 530px;
+    border-top: 126px;
+   
+}
+
+.midnight p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    width: 565px;
+    margin-bottom: 30px;
+}
+
+
